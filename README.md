@@ -1,2 +1,2 @@
-# -F-rias-da-F-sica
+# -Frias-da-Fsica
 fisica
